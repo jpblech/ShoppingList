@@ -1,0 +1,13 @@
+.add-item {
+  display: flex;
+  justify-content: center;
+}
+.insert {
+  width: 40%;
+  margin: 4px;
+}
+
+.button {
+  width: 20%;
+  max-height: 40px;
+}
